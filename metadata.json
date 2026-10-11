@@ -1,0 +1,6 @@
+{
+  "name": "MedQExam - Professional Interactive Medical MCQ Examination Platform",
+  "description": "Professional interactive medical MCQ examination platform. Generate high-yield clinical MCQs from PDF materials, practice timed examinations, and review in-depth mechanism explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
